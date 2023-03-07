@@ -1,0 +1,29 @@
+h1 { 
+text-align : left;
+font-size : 60px;
+font-family : Impact;
+color : #0500004;
+}
+p { 
+font-size : 27px;
+font-weight: 600px;
+color : #0a0101;
+font-family :  Georgia;
+}
+p.iii {
+ font-size : 18px;
+}
+body { 
+background-image : url(wallpapersden.com_metro-2033-moscow-winter_2560x1440.jpg);
+background-size : 180% ;
+}
+li { 
+font-size : 22px;
+font-weight: 900px;
+color : #0a0101;
+font-family :  Georgia;
+}
+a {
+color : #a65800;
+text-decoration : none;
+}
